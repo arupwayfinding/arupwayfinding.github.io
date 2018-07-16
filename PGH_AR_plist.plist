@@ -13,22 +13,6 @@
 					<key>url</key>
 					<string>https://arupwayfinding.github.io/PGH AR.ipa</string>
 				</dict>
-				<dict>
-					<key>kind</key>
-					<string>full-size-image</string>
-					<key>needs-shine</key>
-					<false/>
-					<key>url</key>
-					<string>https://arupworld.arup.com/ArupRealOTA/Arup_Real_Civil_Aus.png</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>display-image</string>
-					<key>needs-shine</key>
-					<false/>
-					<key>url</key>
-					<string>https://arupworld.arup.com/ArupRealOTA/Arup_Real_Civil_Aus.png</string>
-				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
